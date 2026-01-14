@@ -20,7 +20,7 @@ Je suis un jeune diplômé issu d'un double parcours **mathématique** et **info
   - Rédactions d'articles de vulgarisations.
   - Mise en palce du github et de dossiers organisés.
   - Recherche et dévellopement sur l'adaptation du cas polynomial au cas entier.
-- **Portfolio personnel** (https://nepeluche.github.io)
+- **Portfolio personnel** (https://enpeluche.github.io)
   - Vitrine de mes projets et mon parcours.
 
 # Me contacter
